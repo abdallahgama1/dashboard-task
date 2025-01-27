@@ -1,0 +1,15 @@
+/* src/styles/globals.css or App.css */
+body {
+    display: flex;
+  }
+  
+  #root {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 20px;
+  }
